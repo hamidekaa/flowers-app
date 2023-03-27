@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "image":"https://i0.wp.com/www.evimdergisi.com.tr/wp-content/uploads/2021/01/kirmizi-gul.jpg?w=1200&ssl=1",
+        "title":"Kırmızı Gül",
+        "descripton":"Kırmızı gül “AŞK” çiçeğidir."
+    },
+    {
+        "id": 2,
+        "image":"https://i0.wp.com/www.evimdergisi.com.tr/wp-content/uploads/2020/02/orkide.jpg?w=730&ssl=1",
+        "title":"Orkide",
+        "descripton":"Orkide, masumiyet, zarafet, saflık ve asaleti temsil eder."
+    },
+    {
+        "id": 3,
+        "image":"https://i0.wp.com/www.evimdergisi.com.tr/wp-content/uploads/2020/03/yo%C4%9Furt-%C3%A7i%C3%A7e%C4%9Fi-papatya.jpg?w=1200&ssl=1",
+        "title":"Papatya",
+        "descripton":"Gören herkesin içini ferahlatan papatyanın anlamı “TEMİZ SEVGİ, BOLLUK, SIHHAT”"
+    },
+    {
+        "id": 4,
+        "image":"https://i0.wp.com/www.evimdergisi.com.tr/wp-content/uploads/2020/04/LALE.jpg?w=730&ssl=1",
+        "title":"Lale",
+        "descripton":"Lalenin, beyaz rengi saf ve temiz duygular, sarı renk sevgi, pembe rengi ise sadakat anlamı taşır."
+    },
+    {
+        "id": 5,
+        "image":"https://i0.wp.com/www.evimdergisi.com.tr/wp-content/uploads/2020/02/lilyum.jpg?w=800&ssl=1",
+        "title":"Lilyum",
+        "descripton":"Lilyumun pembe renk şefkat, sarı lilyum güven turuncu lilyum ise “benim için özelsin” anlamı  taşır."
+    },
+    {
+        "id": 6,
+        "image":"https://i0.wp.com/www.evimdergisi.com.tr/wp-content/uploads/2021/01/sumbul-2-2.jpg?w=730&ssl=1",
+        "title":"Sümbül",
+        "descripton":"İlkbahar ve yaz aylarının en güzel kokan çiçeklerinden sümbül sonsuz sevgi ve bağlılık anlamı taşır."
+    },
+    {
+        "id": 7,
+        "image":"https://i0.wp.com/www.evimdergisi.com.tr/wp-content/uploads/2021/01/frezya.jpg?w=730&ssl=1",
+        "title":"Frezya",
+        "descripton":"Beyaz rengi umut, sarı renk sıcak sevgi, pembe rengi azim duygusunu, mor rengi ise neşe anlamı taşımaktadır."
+    },
+    {
+        "id": 8,
+        "image":"https://i0.wp.com/www.evimdergisi.com.tr/wp-content/uploads/2020/07/karanfil-bak%C4%B1m%C4%B1-1.jpg?resize=1024%2C681&ssl=1",
+        "title":"Karanfil",
+        "descripton":"Kırmızı karanfil aşk, beyaz karanfil temizlik ve saflık, pembe karanfil içtenliktir."
+    }
+   
+
+
+
+
+
+
+
+
+
+
+
+
+]
